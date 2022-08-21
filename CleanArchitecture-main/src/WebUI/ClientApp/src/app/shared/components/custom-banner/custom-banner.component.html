@@ -1,0 +1,56 @@
+<div class="custom-carsoul">
+  <div class="container-fluid">
+    <p-carousel *ngIf="!isBanner" [value]="data" [numVisible]="numVisible" [numScroll]="numScroll"
+    [circular]="false" [responsiveOptions]="responsiveOptions" [showIndicators]="showIndicators"
+    [contentClass]="'container-fluid'">
+      <ng-template pTemplate="header" *ngIf="title">
+        <div class="row">
+          <div class="col-md-12">
+            <h3 class="underline-title pb-2">
+              <span>{{ title }}</span>
+            </h3>
+          </div>
+        </div>
+      </ng-template>
+      <ng-template let-product pTemplate="item">
+        <div class="card" style="width: 18rem;">
+          <img src="https://egyptfilters.aljazeery.com/web/image/780-02036db9/payment-bg.png" class="card-img-top" alt="...">
+          <ul class="card-action-buttons">
+            <li>
+              <a class="btn-floating waves-effect waves-light white">
+                <button pButton pRipple icon="pi pi-share-alt" class="p-button-rounded p-button-secondary p-button-text"></button>
+              </a>
+            </li>
+            <li>
+              <a class="btn-floating waves-effect waves-light red accent-2">
+                <button pButton pRipple icon="pi pi-heart" class="p-button-rounded p-button-danger"></button>
+              </a>
+            </li>
+            <li>
+              <a id="buy" class="btn-floating waves-effect waves-light blue">
+                <button pButton pRipple icon="pi pi-shopping-cart" class="p-button-rounded"></button>
+              </a>
+            </li>
+        </ul>
+          <div class="card-body">
+            <h5 class="card-title mt-2">Card title</h5>
+            <p class="card-text three-lines">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+      </ng-template>
+    </p-carousel>
+  </div>
+  <carousel [isAnimated]="true" *ngIf="isBanner">
+    <slide *ngFor="let item of data">
+      <div class="text-center text-white item-slide">
+        <img src="https://egyptfilters.aljazeery.com/web/image/842-80047a58/Image_8_1920x800.png" class="banner-img" alt="">
+        <div class="banner-title">
+          <h2>{{item.title}}</h2>
+          <div class="lead">
+            <p class="three-lines">{{item.desc}}</p>
+          </div>
+        </div>
+      </div>
+    </slide>
+  </carousel>
+</div>

@@ -1,0 +1,118 @@
+<div class="container">
+  <div class="row">
+      <div class="col-md-12 toolbar">
+          <h2 class="col-md-6 headerTitle">Employee Setup</h2>
+          <div class="col-md-6 actions">
+              <!-- inactive class on print link will be removed once user select at least one row in table-->
+              <a class="inactive" data-toggle="tooltip" data-placement="bottom" title="Print"><span class="glyphicon glyphicon-print"></span> </a>
+              <a class="inactive" data-toggle="tooltip" data-placement="bottom" title="Save"> <span class="glyphicon glyphicon-floppy-disk"></span></a>
+              <a *ngIf="saveIsDone" class="active" data-toggle="tooltip" data-placement="bottom" title="Add" (click)="PlusItem()"><span class="fas fa-plus-circle"></span></a>
+              <a *ngIf="!saveIsDone" class="active" data-toggle="tooltip" data-placement="bottom" title="Cancel" (click)="CancelItem()"><span class="fas fa-minus-circle"></span></a>
+          </div>
+      </div>
+      <div class="col-md-12">
+
+
+          <div class="mat-elevation-z8 ">
+              <mat-form-field class="filiter">
+                  <mat-label>Filter
+                  </mat-label>
+                  <input matInput name="FiliterValue" FiliterValue="ngModel" [(ngModel)]="FiliterValue" (keyup)="applyFilter($event.target, true)">
+              </mat-form-field>
+
+              <!-- start table  -->
+              <table mat-table  [dataSource]="dataSource" >
+                  <!-- pageSetupAllData[i].CODE -->
+                  <ng-container matColumnDef="CODE">
+                      <th mat-header-cell *matHeaderCellDef width="25%"> Code</th>
+                      <td mat-cell *matCellDef="let element;let i=index;">
+                          <p *ngIf="!element.isOpenForEdit"> {{element.code}}</p>
+                          <mat-form-field *ngIf="element.isOpenForEdit">
+                              <input matInput (keydown.space)="$event.preventDefault()" [(ngModel)]="element.code"  ng-pattern="/^(\D)+$/" [class.exist]="isExist" [value]="element.code" type="text" required
+                                  maxlength="10">
+                          </mat-form-field>
+                      </td>
+                  </ng-container>
+                  <!-- pageSetupAllData[i].LATIN_NAME -->
+                  <ng-container matColumnDef="LATIN_NAME">
+                      <th mat-header-cell *matHeaderCellDef width="25%"> Employee English Name</th>
+                      <td mat-cell *matCellDef="let element;let i = index;">
+                          <p *ngIf="!element.isOpenForEdit"> {{element.latinName}}</p>
+                          <mat-form-field *ngIf="element.isOpenForEdit">
+                              <input matInput [(ngModel)]="element.latinName" [value]="element.latinName" type="text" required maxlength="60">
+                          </mat-form-field>
+                      </td>
+                  </ng-container>
+                  <!-- pageSetupAllData[i].ARABIC_NAME -->
+                  <ng-container matColumnDef="ARABIC_NAME">
+                      <th mat-header-cell *matHeaderCellDef width="25%">  Employee Arabic Name </th>
+                      <td mat-cell *matCellDef="let element;let i = index;">
+                          <p *ngIf="!element.isOpenForEdit"> {{element.arabicName}}</p>
+                          <mat-form-field *ngIf="element.isOpenForEdit">
+                              <input matInput [(ngModel)]="element.arabicName" [value]="element.arabicName" type="text" required maxlength="60">
+
+                          </mat-form-field>
+                      </td>
+                  </ng-container>
+
+
+
+                  <!-- pageSetupAllData[i].ACTIVE -->
+                  <ng-container matColumnDef="ACTIVE">
+                      <th mat-header-cell *matHeaderCellDef width="5%"> Active</th>
+                      <td mat-cell *matCellDef="let element;let i = index;">
+
+                          <mat-checkbox *ngIf="element.isOpenForEdit; else displayIconsCheck" [(ngModel)]="element.active"
+                              [disabled]="!element.isOpenForEdit"></mat-checkbox>
+                          <ng-template #displayIconsCheck>
+                              <p *ngIf="element.active ; else elseActive">
+                                <i class="fa-solid fa-check"></i>
+                           </p>
+                              <ng-template #elseActive>
+                                <i class="fa-solid fa-xmark"></i>
+                              </ng-template>
+                          </ng-template>
+                      </td>
+                  </ng-container>
+                  <!-- button Action -->
+                  <ng-container matColumnDef="ACTION" class="border">
+                      <th mat-header-cell *matHeaderCellDef width="20%"></th>
+                      <td mat-cell *matCellDef="let element;let i=index;" class="btnAcction center">
+                          <span *ngIf="!element.isOpenForEdit" mat-raised-button class=" mr-10 text-primary" (click)="EditItem(this.paginator.pageIndex == 0 ?  i : i + this.paginator.pageIndex * this.paginator.pageSize)">
+                  <i class="fas fa-pencil-alt "></i>
+              </span>
+                          <span *ngIf="!element.isOpenForEdit" mat-raised-button class="mr-10 text-primary" (click)="deleteItem(element.id)">
+                  <i class="fas fa-trash-alt " ></i>
+              </span>
+
+                <span matTooltip="BeforSave">
+                <span *ngIf="element.isOpenForEdit" mat-raised-button class=" ml-1 text-primary" disabled="true"  (click)="saveItem(element,i)">
+                  <i class="fas fa-save"></i>
+                </span>
+                          </span>
+
+                      </td>
+                  </ng-container>
+
+                  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+              </table>
+              <!------------------------------------------------------------------------------------------ -->
+
+              <!-- start spinner div -->
+              <div *ngIf="isLoading" class="spinner-container">
+                  <mat-progress-spinner color="primary" mode="indeterminate">
+                  </mat-progress-spinner>
+              </div>
+              <!------------------------------------------------------------------------------------------ -->
+              <!-- start  div with contain no data -->
+              <div *ngIf="(EmployeesData.length<=0 &&!isLoading)||showNoData" class="text-center h5 noDataFound" >
+                  <p>No Data Found </p>
+              </div>
+              <!------------------------------------------------------------------------------------------ -->
+              <mat-paginator [pageSizeOptions]="[10, 20,40,100]" showFirstLastButtons></mat-paginator>
+
+          </div>
+      </div>
+  </div>
+</div>

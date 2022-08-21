@@ -1,0 +1,800 @@
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\LivingDoc.Dtos.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\testhost.exe
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\testhost.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\appsettings.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\node\win32_x64\node.exe
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\node\win32_x64\playwright.cmd
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\node\LICENSE
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\api.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\android-driver-target.apk
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\android-driver.apk
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\install_media_pack.ps1
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\PrintDeps.exe
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\README.md
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\browsers.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\cli.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\index.d.ts
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\index.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\index.mjs
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\browserServerImpl.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\accessibility.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\android.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\api.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\artifact.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\browser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\browserContext.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\browserType.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\cdpSession.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\channelOwner.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\clientHelper.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\clientInstrumentation.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\connection.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\consoleMessage.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\coverage.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\dialog.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\download.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\electron.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\elementHandle.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\events.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\fetch.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\fileChooser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\frame.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\input.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\jsHandle.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\jsonPipe.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\localUtils.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\locator.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\network.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\page.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\playwright.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\selectors.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\stream.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\tracing.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\types.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\video.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\waiter.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\worker.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\writableStream.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\cli\cli.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\cli\driver.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\debugLogger.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\errors.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\netUtils.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\socksProxy.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\timeoutSettings.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\types.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\userAgent.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\generated\consoleApiSource.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\generated\injectedScriptSource.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\generated\recorderSource.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\generated\utilityScriptSource.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\githubGridFactory.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\gridAgent.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\gridBrowserWorker.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\gridServer.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\simpleGridFactory.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\inprocess.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\inProcessFactory.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\outofprocess.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\callMetadata.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\channels.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\serializers.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\transport.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\validator.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\validatorPrimitives.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\remote\playwrightConnection.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\remote\playwrightServer.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\accessibility.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\android\android.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\android\backendAdb.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\artifact.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\browser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\browserContext.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\browserType.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\appIcon.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\chromium.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crAccessibility.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crApp.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crBrowser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crConnection.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crCoverage.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crDevTools.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crDragDrop.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crInput.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crPage.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crPdf.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\videoRecorder.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\console.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\cookieStore.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\debugger.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\deviceDescriptors.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dialog.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\consoleMessageDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\selectorsDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dom.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\download.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\electron\electron.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\fetch.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\fileChooser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffAccessibility.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffBrowser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffConnection.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffInput.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffPage.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\firefox.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\formData.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\frames.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\har\har.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\har\harRecorder.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\har\harTracer.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\helper.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\index.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\input.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\instrumentation.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\isomorphic\cssParser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\isomorphic\cssTokenizer.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\isomorphic\selectorParser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\isomorphic\utilityScriptSerializers.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\javascript.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\macEditingCommands.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\network.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\page.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\pipeTransport.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\playwright.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\progress.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\protocolError.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\codeGenerator.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\csharp.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\java.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\javascript.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\language.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\python.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\recorderActions.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\recorderApp.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\recorderTypes.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\recorderUtils.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\utils.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\browserFetcher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\dependencies.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\download.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\index.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\nativeDeps.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\screenshotter.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\selectors.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\common\snapshotTypes.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\common\traceEvents.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\recorder\tracing.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\transport.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\types.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\usKeyboardLayout.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\webkit.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkAccessibility.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkBrowser.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkConnection.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkInput.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkPage.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkWorkers.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\third_party\diff_match_patch.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\third_party\pixelmatch.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utilsBundle.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utilsBundleImpl.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\comparators.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\eventsHelper.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\fileUtils.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\hostPlatform.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\httpServer.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\index.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\manualPromise.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\multimap.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\processLauncher.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\processLauncherCleanupEntrypoint.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\spawnAsync.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\stackTrace.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\timeoutRunner.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\ubuntuVersion.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\zones.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\htmlReport\index.html
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\assets\codicon.dcd00fb4.ttf
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\assets\index.50596996.css
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\assets\index.7961abf7.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-16x16.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-192x192.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-256x256.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-32x32.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-384x384.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-512x512.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\index.html
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\codicon.dcd00fb4.ttf
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-16x16.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-192x192.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-256x256.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-32x32.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-384x384.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-512x512.png
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\index.html
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\main.a5d7e729.css
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\main.ce7ea3d1.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\sw.bundle.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\zipBundle.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\zipBundleImpl.js
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\package.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\protocol.yml
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\README.md
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\ThirdPartyNotices.txt
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\types\protocol.d.ts
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\types\structs.d.ts
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\types\types.d.ts
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\playwright.ps1
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\nunit.engine.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.deps.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.runtimeconfig.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.pdb
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\BoDi.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\FluentAssertions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Gherkin.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Playwright.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\nunit.framework.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\System.Text.Json.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.csproj.AssemblyReference.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.AssemblyInfoInputs.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.AssemblyInfo.cs
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.csproj.CoreCompileInputs.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.csproj.CopyComplete
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\refint\CleanArchitecture.WebUI.AcceptanceTests.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.pdb
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.genruntimeconfig.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\ref\CleanArchitecture.WebUI.AcceptanceTests.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\testhost.exe
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\appsettings.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\node\win32_x64\node.exe
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\node\win32_x64\playwright.cmd
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\node\LICENSE
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\api.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\android-driver-target.apk
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\android-driver.apk
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\install_media_pack.ps1
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\PrintDeps.exe
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\README.md
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\browsers.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\cli.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\index.d.ts
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\index.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\index.mjs
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\browserServerImpl.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\accessibility.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\android.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\api.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\artifact.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\browser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\browserContext.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\browserType.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\cdpSession.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\channelOwner.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\clientHelper.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\clientInstrumentation.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\connection.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\consoleMessage.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\coverage.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\dialog.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\download.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\electron.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\elementHandle.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\events.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\fetch.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\fileChooser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\frame.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\input.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\jsHandle.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\jsonPipe.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\localUtils.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\locator.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\network.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\page.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\playwright.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\selectors.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\stream.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\tracing.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\types.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\video.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\waiter.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\worker.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\client\writableStream.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\cli\cli.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\cli\driver.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\debugLogger.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\errors.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\netUtils.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\socksProxy.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\timeoutSettings.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\types.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\common\userAgent.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\generated\consoleApiSource.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\generated\injectedScriptSource.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\generated\recorderSource.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\generated\utilityScriptSource.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\githubGridFactory.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\gridAgent.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\gridBrowserWorker.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\gridServer.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\grid\simpleGridFactory.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\inprocess.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\inProcessFactory.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\outofprocess.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\callMetadata.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\channels.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\serializers.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\transport.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\validator.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\protocol\validatorPrimitives.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\remote\playwrightConnection.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\remote\playwrightServer.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\accessibility.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\android\android.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\android\backendAdb.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\artifact.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\browser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\browserContext.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\browserType.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\appIcon.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\chromium.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crAccessibility.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crApp.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crBrowser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crConnection.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crCoverage.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crDevTools.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crDragDrop.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crInput.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crPage.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crPdf.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\chromium\videoRecorder.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\console.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\cookieStore.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\debugger.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\deviceDescriptors.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dialog.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\consoleMessageDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\selectorsDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\dom.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\download.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\electron\electron.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\fetch.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\fileChooser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffAccessibility.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffBrowser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffConnection.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffInput.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\ffPage.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\firefox\firefox.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\formData.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\frames.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\har\har.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\har\harRecorder.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\har\harTracer.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\helper.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\index.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\input.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\instrumentation.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\isomorphic\cssParser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\isomorphic\cssTokenizer.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\isomorphic\selectorParser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\isomorphic\utilityScriptSerializers.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\javascript.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\macEditingCommands.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\network.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\page.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\pipeTransport.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\playwright.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\progress.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\protocolError.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\codeGenerator.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\csharp.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\java.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\javascript.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\language.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\python.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\recorderActions.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\recorderApp.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\recorderTypes.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\recorderUtils.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\recorder\utils.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\browserFetcher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\dependencies.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\download.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\index.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\registry\nativeDeps.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\screenshotter.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\selectors.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\common\snapshotTypes.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\common\traceEvents.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\recorder\tracing.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\transport.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\types.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\usKeyboardLayout.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\webkit.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkAccessibility.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkBrowser.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkConnection.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkInput.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkPage.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\server\webkit\wkWorkers.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\third_party\diff_match_patch.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\third_party\pixelmatch.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utilsBundle.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utilsBundleImpl.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\comparators.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\eventsHelper.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\fileUtils.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\hostPlatform.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\httpServer.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\index.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\manualPromise.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\multimap.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\processLauncher.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\processLauncherCleanupEntrypoint.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\spawnAsync.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\stackTrace.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\timeoutRunner.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\ubuntuVersion.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\utils\zones.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\htmlReport\index.html
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\assets\codicon.dcd00fb4.ttf
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\assets\index.50596996.css
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\assets\index.7961abf7.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-16x16.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-192x192.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-256x256.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-32x32.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-384x384.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\icon-512x512.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\recorder\index.html
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\codicon.dcd00fb4.ttf
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-16x16.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-192x192.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-256x256.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-32x32.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-384x384.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\icon-512x512.png
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\index.html
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\main.a5d7e729.css
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\main.ce7ea3d1.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\webpack\traceViewer\sw.bundle.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\zipBundle.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\lib\zipBundleImpl.js
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\package.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\protocol.yml
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\README.md
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\ThirdPartyNotices.txt
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\types\protocol.d.ts
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\types\structs.d.ts
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\.playwright\package\types\types.d.ts
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\playwright.ps1
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\LivingDoc.Dtos.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\nunit.engine.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\nunit.engine.api.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\nunit.engine.core.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\testcentric.engine.metadata.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\testhost.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.deps.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.runtimeconfig.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.pdb
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\BoDi.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\FluentAssertions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Gherkin.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.Playwright.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\nunit.framework.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\System.Text.Json.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.csproj.AssemblyReference.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.AssemblyInfoInputs.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.AssemblyInfo.cs
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.csproj.CoreCompileInputs.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.csproj.CopyComplete
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\refint\CleanArchitecture.WebUI.AcceptanceTests.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\CleanArchitecture.WebUI.AcceptanceTests.pdb
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\WebUI.AcceptanceTests.genruntimeconfig.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\tests\WebUI.AcceptanceTests\obj\Debug\net6.0\ref\CleanArchitecture.WebUI.AcceptanceTests.dll

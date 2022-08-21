@@ -1,0 +1,275 @@
+ExceptionID : 4efc10b0-3a5d-4f38-bfeb-e0164b2299fd
+
+Date : 8/21/2022 3:04:00 PM
+
+Request : CreateEmployeeCleanArchitecture.Application.Setup.Employees.Commands.CreateEmployee
+
+Exception
+Exception Message: An error occurred while saving the entity changes. See the inner exception for details.
+----------------------------------------------------------------------------
+Source: 
+Microsoft.EntityFrameworkCore.Relational
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at CleanArchitecture.Infrastructure.Persistence.ApplicationDbContext.SaveChangesAsync(CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Infrastructure\Persistence\ApplicationDbContext.cs:line 65
+   at CleanArchitecture.Application.Setup.Employees.Commands.CreateEmployeeCommandHandler.Handle(CreateEmployee request, CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Setup\Employees\Commands\CreateEmployeeCommandHandler.cs:line 44
+   at CleanArchitecture.Application.Common.Behaviours.PerformanceBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\PerformanceBehaviour.cs:line 31
+   at CleanArchitecture.Application.Common.Behaviours.ValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\ValidationBehaviour.cs:line 35
+   at CleanArchitecture.Application.Common.Behaviours.AuthorizationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\AuthorizationBehaviour.cs:line 78
+   at CleanArchitecture.Application.Common.Behaviours.UnhandledExceptionBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\UnhandledExceptionBehaviour.cs:line 21
+----------------------------------------------------------------------------
+
+
+Inner Exception : 
+Exception
+Exception Message: Cannot insert the value NULL into column 'Code', table 'EmployeeDB.dbo.Employees'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+----------------------------------------------------------------------------
+Source: 
+Core Microsoft SqlClient Data Provider
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__188_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+----------------------------------------------------------------------------
+
+
+
+ExceptionID : 9e52736a-8912-4580-971e-67068ab40261
+
+Date : 8/21/2022 3:06:57 PM
+
+Request : CreateEmployeeCleanArchitecture.Application.Setup.Employees.Commands.CreateEmployee
+
+Exception
+Exception Message: An error occurred while saving the entity changes. See the inner exception for details.
+----------------------------------------------------------------------------
+Source: 
+Microsoft.EntityFrameworkCore.Relational
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at CleanArchitecture.Infrastructure.Persistence.ApplicationDbContext.SaveChangesAsync(CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Infrastructure\Persistence\ApplicationDbContext.cs:line 65
+   at CleanArchitecture.Application.Setup.Employees.Commands.CreateEmployeeCommandHandler.Handle(CreateEmployee request, CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Setup\Employees\Commands\CreateEmployeeCommandHandler.cs:line 44
+   at CleanArchitecture.Application.Common.Behaviours.PerformanceBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\PerformanceBehaviour.cs:line 31
+   at CleanArchitecture.Application.Common.Behaviours.ValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\ValidationBehaviour.cs:line 35
+   at CleanArchitecture.Application.Common.Behaviours.AuthorizationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\AuthorizationBehaviour.cs:line 78
+   at CleanArchitecture.Application.Common.Behaviours.UnhandledExceptionBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\UnhandledExceptionBehaviour.cs:line 21
+----------------------------------------------------------------------------
+
+
+Inner Exception : 
+Exception
+Exception Message: Cannot insert the value NULL into column 'Code', table 'EmployeeDB.dbo.Employees'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+----------------------------------------------------------------------------
+Source: 
+Core Microsoft SqlClient Data Provider
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__188_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+----------------------------------------------------------------------------
+
+
+
+ExceptionID : 4f3d7725-343b-4bb9-9776-a16d23b40f3a
+
+Date : 8/21/2022 4:25:54 PM
+
+Request : CreateEmployeeCleanArchitecture.Application.Setup.Employees.Commands.CreateEmployee
+
+Exception
+Exception Message: An error occurred while saving the entity changes. See the inner exception for details.
+----------------------------------------------------------------------------
+Source: 
+Microsoft.EntityFrameworkCore.Relational
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at CleanArchitecture.Infrastructure.Persistence.ApplicationDbContext.SaveChangesAsync(CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Infrastructure\Persistence\ApplicationDbContext.cs:line 65
+   at CleanArchitecture.Application.Setup.Employees.Commands.CreateEmployeeCommandHandler.Handle(CreateEmployee request, CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Setup\Employees\Commands\CreateEmployeeCommandHandler.cs:line 44
+   at CleanArchitecture.Application.Common.Behaviours.PerformanceBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\PerformanceBehaviour.cs:line 31
+   at CleanArchitecture.Application.Common.Behaviours.ValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\ValidationBehaviour.cs:line 35
+   at CleanArchitecture.Application.Common.Behaviours.AuthorizationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\AuthorizationBehaviour.cs:line 78
+   at CleanArchitecture.Application.Common.Behaviours.UnhandledExceptionBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\UnhandledExceptionBehaviour.cs:line 21
+----------------------------------------------------------------------------
+
+
+Inner Exception : 
+Exception
+Exception Message: Cannot insert the value NULL into column 'Code', table 'EmployeeDB.dbo.Employees'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+----------------------------------------------------------------------------
+Source: 
+Core Microsoft SqlClient Data Provider
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__188_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+----------------------------------------------------------------------------
+
+
+
+ExceptionID : 8be74ad7-840c-46d8-89af-3adf4e02ee97
+
+Date : 8/21/2022 4:25:55 PM
+
+Request : CreateEmployeeCleanArchitecture.Application.Setup.Employees.Commands.CreateEmployee
+
+Exception
+Exception Message: An error occurred while saving the entity changes. See the inner exception for details.
+----------------------------------------------------------------------------
+Source: 
+Microsoft.EntityFrameworkCore.Relational
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at CleanArchitecture.Infrastructure.Persistence.ApplicationDbContext.SaveChangesAsync(CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Infrastructure\Persistence\ApplicationDbContext.cs:line 65
+   at CleanArchitecture.Application.Setup.Employees.Commands.CreateEmployeeCommandHandler.Handle(CreateEmployee request, CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Setup\Employees\Commands\CreateEmployeeCommandHandler.cs:line 44
+   at CleanArchitecture.Application.Common.Behaviours.PerformanceBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\PerformanceBehaviour.cs:line 31
+   at CleanArchitecture.Application.Common.Behaviours.ValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\ValidationBehaviour.cs:line 35
+   at CleanArchitecture.Application.Common.Behaviours.AuthorizationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\AuthorizationBehaviour.cs:line 78
+   at CleanArchitecture.Application.Common.Behaviours.UnhandledExceptionBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\UnhandledExceptionBehaviour.cs:line 21
+----------------------------------------------------------------------------
+
+
+Inner Exception : 
+Exception
+Exception Message: Cannot insert the value NULL into column 'Code', table 'EmployeeDB.dbo.Employees'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+----------------------------------------------------------------------------
+Source: 
+Core Microsoft SqlClient Data Provider
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__188_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+----------------------------------------------------------------------------
+
+
+
+ExceptionID : b8ff0a4e-dd68-4b6c-a6bb-d26756cde2f6
+
+Date : 8/21/2022 4:25:56 PM
+
+Request : CreateEmployeeCleanArchitecture.Application.Setup.Employees.Commands.CreateEmployee
+
+Exception
+Exception Message: An error occurred while saving the entity changes. See the inner exception for details.
+----------------------------------------------------------------------------
+Source: 
+Microsoft.EntityFrameworkCore.Relational
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at CleanArchitecture.Infrastructure.Persistence.ApplicationDbContext.SaveChangesAsync(CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Infrastructure\Persistence\ApplicationDbContext.cs:line 65
+   at CleanArchitecture.Application.Setup.Employees.Commands.CreateEmployeeCommandHandler.Handle(CreateEmployee request, CancellationToken cancellationToken) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Setup\Employees\Commands\CreateEmployeeCommandHandler.cs:line 44
+   at CleanArchitecture.Application.Common.Behaviours.PerformanceBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\PerformanceBehaviour.cs:line 31
+   at CleanArchitecture.Application.Common.Behaviours.ValidationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\ValidationBehaviour.cs:line 35
+   at CleanArchitecture.Application.Common.Behaviours.AuthorizationBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\AuthorizationBehaviour.cs:line 78
+   at CleanArchitecture.Application.Common.Behaviours.UnhandledExceptionBehaviour`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\Application\Common\Behaviours\UnhandledExceptionBehaviour.cs:line 21
+----------------------------------------------------------------------------
+
+
+Inner Exception : 
+Exception
+Exception Message: Cannot insert the value NULL into column 'Code', table 'EmployeeDB.dbo.Employees'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+----------------------------------------------------------------------------
+Source: 
+Core Microsoft SqlClient Data Provider
+----------------------------------------------------------------------------
+Stack Trace: 
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__188_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+----------------------------------------------------------------------------
+
+
+

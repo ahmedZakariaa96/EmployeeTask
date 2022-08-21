@@ -1,0 +1,23 @@
+<div class="imageGrid mt-2" *ngIf="!isSponser">
+  <div class="tile" style="background-image: url('https://bit.ly/1tSEfja')" *ngFor="let item of data">
+    <div class="textWrapper">
+      <h2>Pont de Bir-Hakeim, Paris</h2>
+      <div class="content">
+        The western part of the Pont de Bir-Hakeim seen at night. Buildings of
+        the 16th arrondissement of Paris are visible in the background.
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="s_clients_1 pt-4 pb-4 o_colored_level" *ngIf="isSponser">
+  <div class="container">
+    <div class="row tp-client-list s_nb_column_fixed">
+      <div class="col-6 col-sm-4 col-md-3 col-lg-2 tp-client-box o_colored_level" *ngFor="let item of data">
+        <div class="p-4 text-center tp-animation-scale">
+          <img class="img img-fluid tp-cursor-pointer" src="https://egyptfilters.aljazeery.com/web/image/886-03e59c6b/logo.png" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip810682" data-original-id="880" data-original-src="/web/image/880-7700a79d/logo.png" data-mimetype="image/png" data-resize-width="200">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lABN362t2uvpiqGsDoGxkoLW31GqktM66BrXgp+EEdxyPqpL2EM6KRMobfXPB8uZm5B9GH+yadWp2Zibv9AJgg==",
+  "success": true,
+  "projectFilePath": "E:\\Companies\\Europe Company\\Dubai\\Task\\CleanArchitecture-main\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IT\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

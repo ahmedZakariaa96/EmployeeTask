@@ -1,0 +1,224 @@
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\spa.proxy.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\appsettings.Development.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\appsettings.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\appsettings.Production.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\nswag.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.staticwebassets.runtime.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.exe
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.deps.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.runtimeconfig.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.pdb
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\AutoMapper.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CsvHelper.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\FluentValidation.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\IdentityModel.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\MediatR.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NJsonSchema.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Core.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Generation.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\YamlDotNet.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Application.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.csproj.AssemblyReference.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\spa.proxy.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfoInputs.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfo.cs
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.csproj.CoreCompileInputs.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\CleanArchitecture.WebUI.MvcApplicationPartsAssemblyInfo.cs
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\CleanArchitecture.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cs
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\scopedcss\bundle\CleanArchitecture.WebUI.styles.css
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.csproj.CopyComplete
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\CleanArchitecture.WebUI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\refint\CleanArchitecture.WebUI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\CleanArchitecture.WebUI.pdb
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.genruntimeconfig.cache
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\ref\CleanArchitecture.WebUI.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Humanizer.dll
+D:\Deep Deals\TFS\July 2022\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.csproj.AssemblyReference.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\spa.proxy.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfoInputs.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.AssemblyInfo.cs
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.csproj.CoreCompileInputs.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\CleanArchitecture.WebUI.MvcApplicationPartsAssemblyInfo.cs
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\CleanArchitecture.WebUI.MvcApplicationPartsAssemblyInfo.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.RazorAssemblyInfo.cs
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\CleanArchitecture.WebUI.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\refint\CleanArchitecture.WebUI.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\CleanArchitecture.WebUI.pdb
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\appsettings.Development.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\appsettings.Production.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\nswag.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\spa.proxy.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\appsettings.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.staticwebassets.runtime.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.exe
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.deps.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.runtimeconfig.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.WebUI.pdb
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\AutoMapper.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CsvHelper.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\FluentValidation.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Humanizer.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\IdentityModel.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\MediatR.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Namotion.Reflection.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NJsonSchema.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Annotations.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.AspNetCore.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Core.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Generation.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\YamlDotNet.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Application.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\scopedcss\bundle\CleanArchitecture.WebUI.styles.css
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.csproj.CopyComplete
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\WebUI.genruntimeconfig.cache
+E:\Companies\Europe Company\Dubai\Task\CleanArchitecture-main\src\WebUI\obj\Debug\net6.0\ref\CleanArchitecture.WebUI.dll

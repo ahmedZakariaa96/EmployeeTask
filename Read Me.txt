@@ -1,0 +1,17 @@
+
+1) change DefaultConnection  in appseting.json file 
+
+
+2) Please intsall package
+
+npm i --force
+
+----------------------------------------
+
+Employee Controller 
+-> CleanArchitecture.WebUI.Controllers.Setup;
+
+
+
+Emolyee Component
+'./Setup/Employee/Employee.component'

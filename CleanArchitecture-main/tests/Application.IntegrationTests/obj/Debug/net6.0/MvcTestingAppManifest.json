@@ -1,0 +1,6 @@
+{
+  "CleanArchitecture.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Companies\\Europe Company\\Dubai\\Task\\CleanArchitecture-main\\src\\Application",
+  "CleanArchitecture.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Companies\\Europe Company\\Dubai\\Task\\CleanArchitecture-main\\src\\Domain",
+  "CleanArchitecture.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Companies\\Europe Company\\Dubai\\Task\\CleanArchitecture-main\\src\\Infrastructure",
+  "CleanArchitecture.WebUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Companies\\Europe Company\\Dubai\\Task\\CleanArchitecture-main\\src\\WebUI"
+}

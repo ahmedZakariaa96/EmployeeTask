@@ -1,0 +1,75 @@
+.custom-carsoul{
+  .card{
+    .card-img-top{
+      height: 12rem;
+    }
+    .card-action-buttons{
+      margin: -18px 7px 0 0;
+      text-align: right;
+      li{
+        display: inline-flex;
+        padding-left: 7px;
+      }
+    }
+    .card-body{
+      padding: 0 1rem 1rem 1rem;
+      .card-title{color: var(--primary-color);}
+    }
+  }
+  .banner-img{
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+  }
+  .banner-title{
+    position: absolute;
+    top: 25%;
+    left: 0;
+    right: 0;
+    h2{
+      color: var(--black-color);
+      font-size: 3rem;
+      font-weight: 700;
+    }
+    p{
+      color: var(--black-color);
+      font-size: var(--primary-size);
+    }
+  }
+  .item-slide{
+    height: 25rem;
+  }
+  .banner-content {
+    position: relative;
+    .tp-banner-content{
+      position: absolute;
+      top: 40%;
+      right: 25%;
+      bottom: auto;
+      left: auto;
+      transform: translate(15%, -50%);
+      -webkit-transform: translate(15%, -50%);
+      z-index: 2;
+      h5{
+        font-size: 2.2rem;
+        color: var(--black-color);
+      }
+      p{
+        font-size: var(--p-font-size);
+        max-width: 30rem;
+        max-height: 5rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+  }
+}
+
+:host ::ng-deep .carousel-control-prev-icon , .carousel-control-next-icon{
+  background-color: var(--primary-color) !important;
+}
+:host ::ng-deep .carousel-control-next-icon{
+  background-color: var(--primary-color) !important;
+}
+
